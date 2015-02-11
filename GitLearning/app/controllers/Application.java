@@ -9,6 +9,7 @@ public class Application extends Controller {
 
     public static Result index() {
         return ok(index.render("your new application is not working.Please check"));
+        System.out.println("Hi every one!");
     }
 
 }
