@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+body
+{
+	background-color: #e2e2e2;
+}
+#container
+{
+	background-color: 	#20B2AA;
+	height: 200px;
+	width: 230px;
+	margin-top: 20%;
+	margin-left: 41%;	
+}
+input
+{
+	border-radius:5px;
+}
+#submit
+{
+	margin-left: 500px;
+}
