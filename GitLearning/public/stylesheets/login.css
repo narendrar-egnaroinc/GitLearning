@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+body
+{
+	background-color: #e2e2e2;
+}
+h3
+{
+	text-align: center;
+	color: white;
+}
+td
+{
+	padding-top: 1em;
+}
+#container
+{
+	background-color: 	#20B2AA;
+	height: 200px;
+	width: 230px;
+	margin-top: 20%;
+	margin-left: 41%;
+	border-width:5px;	
+	border: solid;
+	border-color: #2d8e89;
+	border-radius:5px;
+}
+label
+{
+	color: white;
+}
+input
+{
+	border-radius:5px;
+}
+#button
+{
+	background-color: white;
+	width: 150px;
+	margin-left: 70px;
+}
+#button:hover
+{
+	background-color: black;
+	color: white;
+}
