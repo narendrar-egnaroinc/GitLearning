@@ -8,7 +8,7 @@ import views.html.*;
 public class Application extends Controller {
 
     public static Result index() {
-        return ok(index.render("Welcome to the world of Draunzer:Arvind"));
+        return ok(index.render("Welcome to the world of Bonjour:Arvind Agrwal"));
     }
     
     public static Result login() {
