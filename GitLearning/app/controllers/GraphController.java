@@ -6,7 +6,7 @@ import play.mvc.*;
 
 import views.html.*;
 
-public class AdminController extends Controller{
+public class GraphController extends Controller{
 
 	public static Result AdminLogin(){
 		System.out.println("hello!");
