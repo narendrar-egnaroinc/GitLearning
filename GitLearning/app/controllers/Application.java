@@ -17,10 +17,5 @@ public class Application extends Controller {
 		return ok(login.render());
 	}
     
-    public static Result welcome(){
-    	
-    	Logger.info("Entered into Welcome API");
-    	return ok(welcome.render("Welcome to git learning"));
-    }
-
+   
 }
